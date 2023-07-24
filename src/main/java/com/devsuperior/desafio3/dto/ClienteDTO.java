@@ -12,6 +12,9 @@ public class ClienteDTO {
     private LocalDate birthDate;
     private Integer children;
 
+    public ClienteDTO() {
+    }
+
     public ClienteDTO(Cliente cliente) {
         id = cliente.getId();
         name = cliente.getName();
@@ -21,4 +24,27 @@ public class ClienteDTO {
         children = cliente.getChildren();
     }
 
+    public Long getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getCpf() {
+        return cpf;
+    }
+
+    public Double getIncome() {
+        return income;
+    }
+
+    public LocalDate getBirthDate() {
+        return birthDate;
+    }
+
+    public Integer getChildren() {
+        return children;
+    }
 }
