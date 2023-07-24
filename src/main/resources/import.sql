@@ -8,3 +8,8 @@ INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Kristen Ga
 INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Raphael Meyers','76145894321',9739,'2000-10-04',3);
 INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Geoffrey Velasquez','37161460827',6986,'1993-01-01',4);
 INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Indigo Wilkinson','71878551450',9814,'1963-09-19',0);
+INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Chaim Whitaker','76978307217',4176.80,'1995-34-18',3);
+INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Rudyard Hogan','75795251215',12,521.48,'1986-39-17',3);
+INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Nolan Ewing','45177853501',13184.38,'1991-50-20',3);
+INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Meredith Holmes','57982565378',15448.68,'1964-25-07',0);
+INSERT INTO tb_cliente (name,cpf,income,birth_date,children) VALUES ('Angela Medina','76358584661',21835.20,'1961-48-26',1);
